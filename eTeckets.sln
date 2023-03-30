@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTeckets", "eTeckets\eTeckets.csproj", "{415C7767-3F9E-41B7-810F-90E677B57F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{415C7767-3F9E-41B7-810F-90E677B57F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415C7767-3F9E-41B7-810F-90E677B57F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415C7767-3F9E-41B7-810F-90E677B57F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415C7767-3F9E-41B7-810F-90E677B57F82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B2267E-7CD4-4D5E-A8D9-3FA58E111640}
+	EndGlobalSection
+EndGlobal
